@@ -1,0 +1,4 @@
+interface:
+  display_name: "零基础课程讲义"
+  short_description: "只给课程名，依据经典教材生成含前置知识、例题、练习详解与综合实践的中文讲义"
+  default_prompt: "使用 $zero-foundation-course，为完全零基础的我编写《线性代数》的系统讲义。"
